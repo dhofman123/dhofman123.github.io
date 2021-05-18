@@ -1,0 +1,35 @@
+main
+{
+height: 1000px;
+width: 99%;
+background-color: rgb(16, 78, 94);
+float:left;
+
+}
+.main2
+{
+height: 900px;
+width: 94%;
+background-color: rgb(26, 119, 21);
+text-align: left;
+margin-top: 50px;
+margin-left: 45px;
+font-size: 20px;
+float: left;
+background-image:url("ziemia1.jpg");
+
+}
+img
+{
+margin-left: 800px;
+width: 500px;
+}
+aside
+{
+float: right;
+300
+}
+mark
+{
+    background-color: grey;
+}
